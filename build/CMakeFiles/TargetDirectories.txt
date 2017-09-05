@@ -1,0 +1,5 @@
+/home/cgel/workspace/rocket/build/CMakeFiles/edit_cache.dir
+/home/cgel/workspace/rocket/build/CMakeFiles/rocket.dir
+/home/cgel/workspace/rocket/build/CMakeFiles/g.dir
+/home/cgel/workspace/rocket/build/CMakeFiles/mask.dir
+/home/cgel/workspace/rocket/build/CMakeFiles/rebuild_cache.dir
